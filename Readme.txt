@@ -1,23 +1,33 @@
 Desarrolladores BIASON Franco - GONZALEZ Elena
 
 
-HOME
-🔰 Video (poner un video que se reproduzca automaticamente)
+🔰 HOME
+- Video 
+--margenes
+-Footer: sacar subrayado
 
-🔰 Sección más servicios:
--Ajustar tamaño de img
-🔰 footer:
--cambiar textos
+🔰 SEMILLERO
+-Hero
+--Cambiar textos
+--Cambiar img
+-Footer: sacar subrayado
 
+🔰 CONTACTO
+-Hero
+--Cambiar textos
+--Cambiar img
+--achicar text-area
+-Footer: sacar subrayado
 
-OTRAS PÁGINAS:
-- SEMILLERO
+🔰 MERCHANDISING
+-Header
+-Portfolio
+-Footer
 
-- MERCHANDISING
-
-- CONTACTO
-
-- NOSOTROS
+🔰 NOSOTROS
+-Header
+-Body
+-Footer
 
 OTROS TRABAJOS:
 - WIREFRAME
