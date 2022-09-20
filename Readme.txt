@@ -1,8 +1,10 @@
 Desarrolladores BIASON Franco - GONZALEZ Elena
 
 
-HOME
-🔰 Video (poner un video que se reproduzca automaticamente)
+🔰 HOME
+- Video 
+--margenes
+
 
 🔰 Sección más servicios:
 -Ajustar tamaño de img
