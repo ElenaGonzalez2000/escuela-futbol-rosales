@@ -2,22 +2,21 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 
 
 🔰 HOME
-- Video 
---margenes
--Footer: sacar subrayado
+-Footer: cursor pointer
 
 🔰 SEMILLERO
 -Hero
 --Cambiar textos
 --Cambiar img
--Footer: sacar subrayado
+-Footer: sacar subrayado (copiar de index)
 
 🔰 CONTACTO
 -Hero
 --Cambiar textos
 --Cambiar img
 --achicar text-area
--Footer: sacar subrayado
+-Footer: sacar subrayado (copiar de index)
+
 
 🔰 MERCHANDISING
 -Header
