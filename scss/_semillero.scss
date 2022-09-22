@@ -1,12 +1,65 @@
-.margin{
+.margin {
     margin-bottom: 40px;
 }
-.card{
+
+.card {
     border: 1px solid rgb(14, 114, 196);
 }
-.titulo-semillero{
+
+.titulo-semillero {
     margin: 30px 0px 25px 0px;
 }
-.parrafo-semillero{
+
+.parrafo-semillero {
     margin-bottom: 30px;
+}
+
+@media screen and (max-width: 1440px) {
+    .div-tarjetas {
+        margin-bottom: 0px;
+
+        .card {
+            margin: 5px 5px 5px 5px;
+        }
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .div-tarjetas {
+        margin-bottom: 0px;
+
+        .card {
+            width: 250px;
+            margin: 5px 0px 5px 0px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .div-tarjetas {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        margin-bottom: 0px;
+
+        .card {
+            width: 300px;
+            margin: 5px 0px 5px 0px;
+        }
+    }
+
+}
+
+@media screen and (max-width: 425px) {
+    .div-tarjetas {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        margin-bottom: 0px;
+
+        .card {
+            width: 200px;
+            margin: 5px 0px 5px 0px;
+        }
+    }
 }
