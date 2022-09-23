@@ -1,62 +1,121 @@
-.margin{
-    margin-bottom: 40px;
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+.hero-semillero {
+  width: 100%;
+  min-height: 40vh;
+  background: url("../img/semillero.jpeg") center center;
+  background-size: cover;
+  position: relative;
+  padding: 120px 0 60px;
 }
-.card{
-    border: 1px solid rgb(14, 114, 196);
+
+.hero-semillero:before {
+  content: "";
+  background: rgba(var(--color-black-rgb), 0.75);
+  position: absolute;
+  inset: 0;
 }
-.titulo-semillero{
-    margin: 30px 0px 25px 0px;
+
+@media (min-width: 1365px) {
+  .hero-semillero {
+    background-attachment: fixed;
+  }
 }
-.parrafo-semillero{
+
+.hero-semillero {
+  p {
+    color: white;
+    margin: 0 0 30px 0;
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  h2 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 300;
+    color: white;
+    font-family: var(--font-secondary);
+
+    span {
+      color: var(--color-primary);
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .hero-semillero h2 {
+    font-size: 32px;
+  }
+
+  .hero-semillero p {
+    font-size: 18px;
     margin-bottom: 30px;
+  }
+}
+
+/*--------------------------------------------------------------
+--------------------------------------------------------------*/
+
+.margin {
+  margin-bottom: 40px;
+}
+.card {
+  border: 1px solid rgb(14, 114, 196);
+}
+.titulo-semillero {
+  margin: 30px 0px 25px 0px;
+}
+.parrafo-semillero {
+  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 1440px) {
-    .div-tarjetas {
-        margin-bottom: 0px;
+  .div-tarjetas {
+    margin-bottom: 0px;
 
-        .card {
-            margin: 5px 5px 5px 5px;
-        }
+    .card {
+      margin: 5px 5px 5px 5px;
     }
+  }
 }
 
 @media screen and (max-width: 1024px) {
-    .div-tarjetas {
-        margin-bottom: 0px;
+  .div-tarjetas {
+    margin-bottom: 0px;
 
-        .card {
-            width: 250px;
-            margin: 5px 0px 5px 0px;
-        }
+    .card {
+      width: 250px;
+      margin: 5px 0px 5px 0px;
     }
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .div-tarjetas {
-        flex-direction: row;
-        flex-wrap: wrap;
-        align-content: center;
-        margin-bottom: 0px;
+  .div-tarjetas {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-bottom: 0px;
 
-        .card {
-            width: 300px;
-            margin: 5px 0px 5px 0px;
-        }
+    .card {
+      width: 300px;
+      margin: 5px 0px 5px 0px;
     }
-
+  }
 }
 
 @media screen and (max-width: 425px) {
-    .div-tarjetas {
-        flex-direction: row;
-        flex-wrap: wrap;
-        align-content: center;
-        margin-bottom: 0px;
+  .div-tarjetas {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-bottom: 0px;
 
-        .card {
-            width: 200px;
-            margin: 5px 0px 5px 0px;
-        }
+    .card {
+      width: 200px;
+      margin: 5px 0px 5px 0px;
     }
+  }
 }

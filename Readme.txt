@@ -1,7 +1,6 @@
 Desarrolladores BIASON Franco - GONZALEZ Elena
 
 🔰 SEMILLERO
--Hero
 --Nombre jugadores
 --Cambiar img
 
