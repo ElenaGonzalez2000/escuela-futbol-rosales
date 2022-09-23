@@ -676,43 +676,43 @@
 /*--------------------------------------------------------------
 # Fullscreen Hero Section
 --------------------------------------------------------------*/
-.hero-fullscreen-contacto {
+.hero-contacto {
   width: 100%;
-  min-height: 80vh;
-  background: url("../img/hero.jpeg") center center;
+  min-height: 40vh;
+  background: url("../img/contactanos.jpeg") center center;
   background-size: cover;
   position: relative;
   padding: 120px 0 60px; }
 
-.hero-fullscreen-contacto:before {
+.hero-contacto:before {
   content: "";
   background: rgba(var(--color-black-rgb), 0.75);
   position: absolute;
   inset: 0; }
 
 @media (min-width: 1365px) {
-  .hero-fullscreen-contacto {
+  .hero-contacto {
     background-attachment: fixed; } }
 
-.hero-fullscreen-contacto p {
+.hero-contacto p {
   color: white;
   margin: 0 0 30px 0;
   font-size: 20px;
   font-weight: 400; }
 
-.hero-fullscreen-contacto h2 {
+.hero-contacto h2 {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 300;
   color: white;
   font-family: var(--font-secondary); }
-  .hero-fullscreen-contacto h2 span {
+  .hero-contacto h2 span {
     color: var(--color-primary); }
 
 @media (max-width: 640px) {
-  .hero-fullscreen-contacto h2 {
+  .hero-contacto h2 {
     font-size: 32px; }
-  .hero-fullscreen-contacto p {
+  .hero-contacto p {
     font-size: 18px;
     margin-bottom: 30px; } }
 

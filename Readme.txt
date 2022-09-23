@@ -10,9 +10,7 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 -Footer: sacar subrayado (copiar de index)
 
 🔰 CONTACTO
--Hero
---Cambiar textos (Mauro)
---Cambiar img
+-Verificar mail
 -Footer: sacar subrayado (copiar de index)
 
 
@@ -26,6 +24,10 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 -Body 
 -- Texto ((Mauro)
 -Footer
+
+
+🔰 PRELOADER
+-Pelota futbol
 
 OTROS TRABAJOS:
 - WIREFRAME
