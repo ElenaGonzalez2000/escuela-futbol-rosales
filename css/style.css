@@ -823,7 +823,7 @@
 
 .contact .php-email-form textarea {
   padding: 10px 12px;
-  height: 290px; }
+  height: 159px; }
 
 .contact .php-email-form button[type="submit"] {
   background: var(--color-primary);
@@ -847,6 +847,10 @@
     transform: rotate(0deg); }
   100% {
     transform: rotate(360deg); } }
+
+@media screen and (max-width: 1024px) {
+  .contact .php-email-form textarea {
+    height: 183px; } }
 
 /*--------------------------------------------------------------
 # General
