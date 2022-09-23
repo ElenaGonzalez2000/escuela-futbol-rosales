@@ -13,7 +13,6 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 -Hero
 --Cambiar textos (Mauro)
 --Cambiar img
---achicar text-area
 -Footer: sacar subrayado (copiar de index)
 
 
