@@ -1,18 +1,17 @@
 Desarrolladores BIASON Franco - GONZALEZ Elena
 
-
 🔰 HOME
 -Footer: cursor pointer
 
 🔰 SEMILLERO
 -Hero
---Cambiar textos
+--Nombre jugadores
 --Cambiar img
 -Footer: sacar subrayado (copiar de index)
 
 🔰 CONTACTO
 -Hero
---Cambiar textos
+--Cambiar textos (Mauro)
 --Cambiar img
 --achicar text-area
 -Footer: sacar subrayado (copiar de index)
@@ -25,10 +24,9 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 
 🔰 NOSOTROS
 -Header
--Body
+-Body 
+-- Texto ((Mauro)
 -Footer
 
 OTROS TRABAJOS:
 - WIREFRAME
-- DOMINIO
-- HOSTING
