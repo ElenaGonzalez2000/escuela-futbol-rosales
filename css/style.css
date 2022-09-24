@@ -468,7 +468,7 @@
     opacity: 0; } }
 
 /*--------------------------------------------------------------
-# Featured Services Section
+# Componentes
 --------------------------------------------------------------*/
 .featured-services .service-item {
   padding: 30px;
@@ -499,6 +499,24 @@
 
 .featured-services .service-item:hover h4 a {
   color: var(--color-primary); }
+
+@media (min-width: 768px) {
+  .featured ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 14px; } }
+
+@media (min-width: 425px) {
+  .featured ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 14px; } }
 
 /*--------------------------------------------------------------
 # Footer
