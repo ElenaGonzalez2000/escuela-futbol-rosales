@@ -1,6 +1,6 @@
 Desarrolladores BIASON Franco - GONZALEZ Elena
 
-🔰 IDEX
+🔰 INDEX
 -Mobile
 --Componentes
 
@@ -14,7 +14,6 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 -Mobile
 
 🔰 MERCHANDISING
--Hero
 -Portfolio
 -Mobile
 
@@ -29,3 +28,4 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 
 OTROS TRABAJOS:
 - WIREFRAME
+- Optimizar Img
