@@ -43,3 +43,25 @@
 .featured-services .service-item:hover h4 a {
   color: var(--color-primary);
 }
+
+@media screen and (max-width: 1200px) {
+  .features .container {
+    width: auto;
+    ul{
+      width: 840px;
+      li{
+        a{
+          h4{
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .features{
+    display: none;
+  }
+}

@@ -500,6 +500,18 @@
 .featured-services .service-item:hover h4 a {
   color: var(--color-primary); }
 
+@media screen and (max-width: 1200px) {
+  .features .container {
+    width: auto; }
+    .features .container ul {
+      width: 840px; }
+      .features .container ul li a h4 {
+        display: none; } }
+
+@media screen and (max-width: 1024px) {
+  .features {
+    display: none; } }
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -896,6 +908,98 @@
 @media screen and (max-width: 1024px) {
   .contact .php-email-form textarea {
     height: 183px; } }
+
+.bordes-componentes {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px; }
+
+.why-us {
+  display: none; }
+  .why-us .content {
+    padding: 60px 100px 0 100px; }
+    .why-us .content h3 {
+      font-weight: 400;
+      font-size: 34px;
+      color: #070505; }
+    .why-us .content h4 {
+      font-size: 20px;
+      font-weight: 700;
+      margin-top: 5px; }
+    .why-us .content p {
+      font-size: 15px;
+      color: #848484; }
+
+.why-us .img {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+.why-us .accordion-list ul {
+  padding: 0;
+  list-style: none; }
+
+.why-us .accordion-list li {
+  padding: 15px 0px;
+  background: #fff;
+  border-radius: 4px; }
+
+.why-us .accordion-list a {
+  display: block;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  padding-right: 30px;
+  outline: none;
+  cursor: pointer; }
+
+.why-us .accordion-list span {
+  color: #0a0606;
+  font-weight: 600;
+  font-size: 18px;
+  padding-left: 5px; }
+
+.why-us .accordion-list i {
+  font-size: 24px;
+  position: absolute;
+  right: 0;
+  top: 0; }
+
+.why-us .accordion-list p {
+  margin-bottom: 0;
+  padding: 10px 0 0 0; }
+
+.why-us .accordion-list .icon-show {
+  display: none; }
+
+.why-us .accordion-list a.collapsed .icon-show {
+  display: inline-block; }
+
+.why-us .accordion-list a.collapsed .icon-close {
+  display: none; }
+
+@media (max-width: 1024px) {
+  .why-us .content,
+  .why-us .accordion-list {
+    padding-left: 0;
+    padding-right: 0; } }
+
+@media (max-width: 1024px) {
+  .why-us {
+    display: block; }
+  .why-us .row {
+    display: inline; }
+  .why-us .img {
+    min-height: 10px; }
+  .why-us .content {
+    padding-top: 30px; } }
+
+@media (max-width: 575px) {
+  .why-us {
+    display: flex;
+    padding-bottom: 0px; } }
 
 /*--------------------------------------------------------------
 # General
