@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------
-# Featured Services Section
+# Componentes
 --------------------------------------------------------------*/
 .featured-services .service-item {
   padding: 30px;
@@ -47,11 +47,13 @@
 @media screen and (max-width: 1200px) {
   .features .container {
     width: auto;
-    ul{
+
+    ul {
       width: 840px;
-      li{
-        a{
-          h4{
+
+      li {
+        a {
+          h4 {
             display: none;
           }
         }
@@ -61,7 +63,7 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .features{
+  .features {
     display: none;
   }
 }
