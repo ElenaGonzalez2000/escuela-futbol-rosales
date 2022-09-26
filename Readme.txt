@@ -14,7 +14,6 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 -Mobile
 
 🔰 MERCHANDISING
--Portfolio
 -Mobile
 
 🔰 NOSOTROS
