@@ -689,7 +689,8 @@
   margin-bottom: 40px; }
 
 .card {
-  border: 1px solid #0e72c4; }
+  border: 1px solid #0e72c4;
+  margin: 0.5rem; }
 
 .titulo-semillero {
   margin: 30px 0px 25px 0px; }
