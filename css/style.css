@@ -910,6 +910,55 @@
   .contact .php-email-form textarea {
     height: 183px; } }
 
+/*--------------------------------------------------------------
+# Fullscreen Hero Section
+--------------------------------------------------------------*/
+.hero-nosotros {
+  width: 100%;
+  min-height: 40vh;
+  background: url("../img/nosotros-hero.jpeg") center center;
+  background-size: cover;
+  position: relative;
+  padding: 120px 0 60px; }
+
+.hero-nosotros:before {
+  content: "";
+  background: rgba(var(--color-black-rgb), 0.75);
+  position: absolute;
+  inset: 0; }
+
+@media (min-width: 1365px) {
+  .hero-nosotros {
+    background-attachment: fixed; } }
+
+.hero-nosotros p {
+  color: white;
+  margin: 0 0 30px 0;
+  font-size: 20px;
+  font-weight: 400; }
+
+.hero-nosotros h2 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 300;
+  color: white;
+  font-family: var(--font-secondary); }
+  .hero-nosotros h2 span {
+    color: var(--color-primary); }
+
+@media (max-width: 640px) {
+  .hero-nosotros h2 {
+    font-size: 32px; }
+  .hero-nosotros p {
+    font-size: 18px;
+    margin-bottom: 30px; } }
+
+/*--------------------------------------------------------------
+# Txt   
+--------------------------------------------------------------*/
+.nosotros-txt {
+  text-align: justify; }
+
 .bordes-componentes {
   border-style: solid;
   border-radius: 5px;
