@@ -1404,6 +1404,21 @@
 .portfolio-details .portfolio-description p {
   padding: 0; }
 
+@media screen and (max-width: 425px) {
+  .portfolio #portfolio-flters li {
+    font-size: 13px; } }
+
+@media screen and (max-width: 375px) {
+  .portfolio #portfolio-flters li {
+    font-size: 12px; } }
+
+@media screen and (max-width: 320px) {
+  .portfolio #portfolio-flters li {
+    font-size: 9px; } }
+
+.ajuste-left {
+  left: auto !important; }
+
 /*--------------------------------------------------------------
   # Preloader
   --------------------------------------------------------------*/
@@ -1585,6 +1600,14 @@ section {
 .about .about-img {
   position: relative;
   margin: 60px 0 0 60px; }
+
+@media screen and (max-width: 991px) {
+  .about .about-img {
+    display: none; } }
+
+@media screen and (max-width: 575px) {
+  .about .about-img {
+    display: block; } }
 
 .about .about-img:before {
   position: absolute;
