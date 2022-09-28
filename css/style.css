@@ -1251,7 +1251,7 @@
 .portfolio #portfolio-flters li::before {
   content: "[";
   margin-right: 6px;
-  color: #0050AD;
+  color: #fff;
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out; }
@@ -1259,7 +1259,7 @@
 .portfolio #portfolio-flters li::after {
   content: "]";
   margin-left: 6px;
-  color: #0050AD;
+  color: #fff;
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out; }
