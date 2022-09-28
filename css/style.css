@@ -1270,7 +1270,7 @@
 
 .portfolio #portfolio-flters li.filter-active::before,
 .portfolio #portfolio-flters li.filter-active::after {
-  color: #ef6603; }
+  color: #0050AD; }
 
 .portfolio .portfolio-item {
   margin-bottom: 30px; }
