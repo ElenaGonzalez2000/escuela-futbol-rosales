@@ -1251,7 +1251,7 @@
 .portfolio #portfolio-flters li::before {
   content: "[";
   margin-right: 6px;
-  color: #fff;
+  color: #0050AD;
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out; }
@@ -1259,7 +1259,7 @@
 .portfolio #portfolio-flters li::after {
   content: "]";
   margin-left: 6px;
-  color: #fff;
+  color: #0050AD;
   font-size: 18px;
   font-weight: 400;
   transition: all 0.3s ease-in-out; }
@@ -1337,7 +1337,7 @@
   transition: 0.3s; }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
-  color: #fd9f5b; }
+  color: #0050AD; }
 
 .portfolio .portfolio-item:hover .portfolio-img img {
   transform: scale(1.2); }
