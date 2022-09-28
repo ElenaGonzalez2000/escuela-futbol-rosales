@@ -11,7 +11,7 @@ Desarrolladores BIASON Franco - GONZALEZ Elena
 
 OTROS TRABAJOS:
 - WIREFRAME
-- Optimizar Img
+- Optimizar Img (listo)
 
 🔰 Mobile
 -Index (listo)

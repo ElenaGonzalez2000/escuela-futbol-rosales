@@ -1266,11 +1266,11 @@
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #ef6603; }
+  color: #0050AD; }
 
 .portfolio #portfolio-flters li.filter-active::before,
 .portfolio #portfolio-flters li.filter-active::after {
-  color: #ef6603; }
+  color: #0050AD; }
 
 .portfolio .portfolio-item {
   margin-bottom: 30px; }
@@ -1337,7 +1337,7 @@
   transition: 0.3s; }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
-  color: #fd9f5b; }
+  color: #0050AD; }
 
 .portfolio .portfolio-item:hover .portfolio-img img {
   transform: scale(1.2); }
