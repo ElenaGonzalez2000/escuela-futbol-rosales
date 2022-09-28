@@ -14,8 +14,8 @@ OTROS TRABAJOS:
 - Optimizar Img
 
 🔰 Mobile
--Index
--Merchandising
+-Index (listo)
+-Merchandising  (recortar imagenes en cuadrado)
 -Semillero
--Contacto
+-Contacto (listo)
 -Nosotros
