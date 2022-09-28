@@ -1,0 +1,10 @@
+# Url Amigable
+
+RewriteEngine On
+RewriteRule ^home/?$ index.html
+RewriteRule ^semillero/?$ semillero.html
+RewriteRule ^merchandising/?$ merchandising.html
+RewriteRule ^contacto/?$ contacto.html
+RewriteRule ^nosotros/?$ nosotros.html
+
+# END Url Amigable
