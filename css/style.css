@@ -910,9 +910,6 @@
   .contact .php-email-form textarea {
     height: 183px; } }
 
-/*--------------------------------------------------------------
-# Fullscreen Hero Section
---------------------------------------------------------------*/
 .hero-nosotros {
   width: 100%;
   min-height: 40vh;
@@ -1098,6 +1095,25 @@
   #hero .carousel-control-next {
     width: 5%; } }
 
+/*--------------------------------------------------------------
+# Img nosotros
+--------------------------------------------------------------*/
+.img-nosotros {
+  width: 10rem;
+  height: 10rem; }
+
+.img-end {
+  text-align: end;
+  padding-right: 2rem; }
+
+.img-nosotros-time {
+  width: 15rem;
+  height: 15rem; }
+
+.img-adaptacion {
+  width: 15rem;
+  height: 15rem; }
+
 .bordes-componentes {
   border-style: solid;
   border-radius: 5px;
@@ -1266,11 +1282,11 @@
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #0050AD; }
+  color: #0050ad; }
 
 .portfolio #portfolio-flters li.filter-active::before,
 .portfolio #portfolio-flters li.filter-active::after {
-  color: #0050AD; }
+  color: #0050ad; }
 
 .portfolio .portfolio-item {
   margin-bottom: 30px; }
@@ -1337,7 +1353,7 @@
   transition: 0.3s; }
 
 .portfolio .portfolio-item .portfolio-links a:hover {
-  color: #0050AD; }
+  color: #fd9f5b; }
 
 .portfolio .portfolio-item:hover .portfolio-img img {
   transform: scale(1.2); }
@@ -1366,13 +1382,13 @@
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ef6603; }
+  border: 1px solid #0050ad; }
 
 .portfolio-details
 .portfolio-details-slider
 .swiper-pagination
 .swiper-pagination-bullet-active {
-  background-color: #ef6603; }
+  background-color: #0050ad; }
 
 .portfolio-details .portfolio-info {
   padding: 30px;

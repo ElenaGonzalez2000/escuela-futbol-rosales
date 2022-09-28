@@ -92,12 +92,12 @@
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #ef6603;
+  color: #0050ad;
 }
 
 .portfolio #portfolio-flters li.filter-active::before,
 .portfolio #portfolio-flters li.filter-active::after {
-  color: #ef6603;
+  color: #0050ad;
 }
 
 .portfolio .portfolio-item {
@@ -211,14 +211,14 @@
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ef6603;
+  border: 1px solid #0050ad;
 }
 
 .portfolio-details
   .portfolio-details-slider
   .swiper-pagination
   .swiper-pagination-bullet-active {
-  background-color: #ef6603;
+  background-color: #0050ad;
 }
 
 .portfolio-details .portfolio-info {
