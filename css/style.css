@@ -1114,6 +1114,10 @@
   width: 15rem;
   height: 15rem; }
 
+@media screen and (max-width: 991px) {
+  .img-nosotros-time {
+    display: none; } }
+
 .bordes-componentes {
   border-style: solid;
   border-radius: 5px;
