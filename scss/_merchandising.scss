@@ -58,6 +58,7 @@
 .portfolio #portfolio-flters {
   list-style: none;
   margin-bottom: 20px;
+  padding: 0px;
 }
 
 .portfolio #portfolio-flters li {
@@ -262,12 +263,12 @@
 
 @media screen and (max-width: 425px) {
   .portfolio #portfolio-flters li {
-    font-size: 13px;
+    font-size: 11px;
   }
 }
 @media screen and (max-width: 375px) {
   .portfolio #portfolio-flters li {
-    font-size: 12px;
+    font-size: 9px;
   }
 }
 @media screen and (max-width: 320px) {
